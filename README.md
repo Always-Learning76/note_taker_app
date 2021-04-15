@@ -1,2 +1,3 @@
-# note_taker_app
-COMPLETING A NOTE TAKER APP THAT JUST HAD HTML AND CSS. ADDED THE JS TO COMPLETE THE PROGRAMS
+**Instruction**
+
+Complete the functions that will make the notes App to work complete.

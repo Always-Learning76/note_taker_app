@@ -13,8 +13,8 @@ function getNoteId(){
 
 function getExistingNotes() {
     let notes = localStorage.getItem('notes')
-    if(notes === null) {
-        notes = []
+    if(!notes) {
+        return null
     } 
       return JSON.parse(notes)   
     
